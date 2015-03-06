@@ -13,7 +13,7 @@ State: Stable
 
 CHANGES:
   * Complete overhaul of the package system. Now uses
-    http://github.com/moovweb/gpkg
+    http://github.com/jbussdieker/gpkg
 
 Version: 0.0.7
 State: Stable

@@ -1,6 +1,6 @@
 # gvm
 
-[![Build Status](https://travis-ci.org/moovweb/gvm.svg?branch=master)](https://travis-ci.org/moovweb/gvm)
+[![Build Status](https://travis-ci.org/jbussdieker/gvm.svg?branch=master)](https://travis-ci.org/jbussdieker/gvm)
 
 by Josh Bussdieker (jbuss, jaja, jbussdieker)
 
@@ -26,7 +26,7 @@ Installing
 
 To install:
 
-    bash < <(curl -s -S -L https://raw.githubusercontent.com/moovweb/gvm/master/binscripts/gvm-installer)
+    bash < <(curl -s -S -L https://raw.githubusercontent.com/jbussdieker/gvm/master/binscripts/gvm-installer)
 
 Or if you are using zsh just change `bash` with `zsh`
 

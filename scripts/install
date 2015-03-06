@@ -228,7 +228,7 @@ install_go_binary() {
 
 install_gpkg() {
 	display_message " * Installing gpkg..."
-	$GVM_GOINSTALL github.com/moovweb/gpkg > "$GVM_ROOT/logs/$GO_NAME-gpkg.log" 2>&1 || return 1
+	$GVM_GOINSTALL github.com/jbussdieker/gpkg > "$GVM_ROOT/logs/$GO_NAME-gpkg.log" 2>&1 || return 1
 }
 
 install_gb() {
